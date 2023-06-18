@@ -1,0 +1,9 @@
+numpy
+pandas
+numba
+scipy
+dask
+simpy
+streamlit
+fastapi
+uvicorn
