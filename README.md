@@ -1,5 +1,5 @@
 ## Inventory Optimization using Simulation Approach
-Introduction
+
 This project is an initiative to develop an efficient, robust, and user-friendly inventory optimization tool using simulation techniques. It is designed to help businesses better understand their inventory dynamics, identify bottlenecks, and make more informed decisions about stock replenishment and resource allocation.
 
 The project uses a combination of discrete-event simulation (DES) and analytical methods to create realistic scenarios for inventory management, considering factors like re-order points (ROP), economic order quantities (EOQ), demand patterns, lead times, and costs.
