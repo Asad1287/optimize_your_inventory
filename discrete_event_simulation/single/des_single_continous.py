@@ -8,7 +8,7 @@ from typing import List, Tuple, Callable
 from discrete_event_simulation.single.simulation_classes import *
 
 
-SAVE_PLOTS_FOLDER = "/mnt/d/Portfolio/Inventory_Optimization/inventory_optimizer_app/discrete_event_simulation/plots"
+SAVE_PLOTS_FOLDER = "./discrete_event_simulation/plots"
 class Inventory_Simulation:
 
     def __init__(self, env:simpy.Environment, constants: Constants, variables: Variables, functions: ExternalFunctions):
